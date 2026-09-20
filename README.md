@@ -75,12 +75,6 @@ $ whoami
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taxin-404&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 ### 🌐 Connect
@@ -92,5 +86,3 @@ $ whoami
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownbrofrombd@duck.com)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=120&section=footer" alt="footer" />
