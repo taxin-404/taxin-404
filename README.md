@@ -16,7 +16,7 @@ $ whoami
 ```
 
 - 🔭 Building APIs with **Java & Spring Boot**, aiming at microservices (Spring Cloud, Eureka)
-- 🐧 Desktop is <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black" valign="middle"> — Neovim, tmux, the whole rice
+- 🐧 Daily driver: <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black" valign="middle">
 - 🌱 Care about clean APIs, solid system design, and scripts that save future-me time
 - 💬 Ask me about **Spring Security, REST APIs, or Linux ricing**
 - ⚡ Fun fact: if I do something twice, the third time is a script
