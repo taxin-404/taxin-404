@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Hey,%20I'm%20taxin%20👋&fontSize=48&fontColor=c0caf5&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20Linux%20Enthusiast&descAlignY=58&descSize=16&descColor=7aa2f7" />
+# Hey, I'm taxin 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Dev+%E2%9A%99%EF%B8%8F;Linux+%26+Open+Source+Enthusiast+%F0%9F%90%A7;Always+Building+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+**Backend Developer | Java & Spring Boot | Linux Enthusiast**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Dev;Linux+%26+Open+Source+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +18,7 @@ $ whoami
 ```
 
 - 🔭 Focused on **Java & Spring Boot**, building toward microservices (Spring Cloud, Eureka)
-- 🐧 Daily-driving **Arch Linux** <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black" valign="middle"> with Hyprland, Neovim & tmux
+- 🐧 Daily-driving **Arch Linux** ![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A?style=for-the-badge) with Hyprland, Neovim & tmux
 - 🌱 Always exploring better system design, cleaner APIs, and sharper backend logic
 - 💬 Ask me about **Spring Security, REST APIs, or Linux scripting**
 - ⚡ Fun fact: I automate everything I do more than twice
