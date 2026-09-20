@@ -16,7 +16,7 @@ $ whoami
 ```
 
 - 🔭 Building APIs with **Java & Spring Boot**, aiming at microservices (Spring Cloud, Eureka)
-- 🐧 Daily-driving **Arch Linux** + **Omarchy** with Hyprland, Neovim & tmux
+- 🐧 Running <img src="https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black" valign="middle"> on Arch Linux with Hyprland, Neovim & tmux
 - 🌱 Care about clean APIs, solid system design, and scripts that save future-me time
 - 💬 Ask me about **Spring Security, REST APIs, or Linux ricing**
 - ⚡ Fun fact: if I do something twice, the third time is a script
