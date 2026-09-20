@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm taxin 👋
-
-**Backend Developer | Java & Spring Boot | Linux Enthusiast**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:414868&height=200&section=header&text=Hey,%20Im%20taxin&fontSize=48&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20|%20Java%20and%20Spring%20Boot%20|%20Linux%20Enthusiast&descAlignY=58&descSize=16&descColor=7aa2f7" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%26+Spring+Boot+Dev;Linux+%26+Open+Source+Enthusiast;Always+Building+Something+New" alt="Typing SVG" />
 
