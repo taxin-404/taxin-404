@@ -80,10 +80,12 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 <!--EXTERNAL_END-->
 
-🔎 **Live view on GitHub:**
-[Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Ataxin-404+is%3Amerged+-user%3Ataxin-404) ·
-[Open PRs](https://github.com/pulls?q=is%3Apr+author%3Ataxin-404+is%3Aopen+-user%3Ataxin-404) ·
-[Issues reported](https://github.com/issues?q=is%3Aissue+author%3Ataxin-404+-user%3Ataxin-404)
+<p align="center">
+  🔎 <b>Live view on GitHub:</b>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ataxin-404+is%3Amerged+-user%3Ataxin-404">Merged PRs</a> ·
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ataxin-404+is%3Aopen+-user%3Ataxin-404">Open PRs</a> ·
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ataxin-404+-user%3Ataxin-404">Issues reported</a>
+</p>
 
 ---
 
