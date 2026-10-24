@@ -39,10 +39,11 @@ def commits(repo):
         return 0
 
 
-# 1) repos GitHub counts as yours: commits or pull requests, excluding your own repos
+# 1) repos where your commits were ACCEPTED (they're on the project's default branch),
+#    excluding your own repos. Rejected / still-open PRs never count.
 query = """query($login:String!){user(login:$login){
   repositoriesContributedTo(first:100, includeUserRepositories:false,
-    contributionTypes:[COMMIT, PULL_REQUEST],
+    contributionTypes:[COMMIT],
     orderBy:{field:STARGAZERS, direction:DESC}){
     nodes{nameWithOwner stargazerCount isPrivate}}}}"""
 repos = {}
