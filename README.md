@@ -21,10 +21,9 @@
 
 Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
-- ☕ I build backends with **Spring Boot** and frontends with **Angular**
-- 🐧 I run **Omarchy** as my daily OS
-- 🤝 I like contributing to other people's projects, which is what's shown below
-
+- ☕ I build backends with **Spring Boot** and frontends with **Angular**.
+- 🐧 I run **Omarchy** as my daily OS.
+- 🤝 I like contributing to open source projects.
 > Backend-focused developer going deep on `Java` & **Spring Boot**
 
 ---
