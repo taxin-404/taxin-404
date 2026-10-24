@@ -45,34 +45,22 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/omacom/omarchy"><img src="https://github.com/omacom.png?size=96" width="56" align="left" alt="omacom"/></a>&nbsp;<a href="https://github.com/omacom/omarchy"><b>omacom/omarchy</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/omacom/omarchy?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/thisisgm/flea"><img src="https://github.com/thisisgm.png?size=96" width="56" align="left" alt="thisisgm"/></a>&nbsp;<a href="https://github.com/thisisgm/flea"><b>thisisgm/flea</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/thisisgm/flea?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/>
-</td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/omacom/omarchy"><img src="https://github.com/omacom.png?size=96" width="56" alt="omacom"/></a></td>
+<td valign="middle"><a href="https://github.com/omacom/omarchy"><b>omacom/omarchy</b></a><br/><img src="https://img.shields.io/github/stars/omacom/omarchy?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/></td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/thisisgm/flea"><img src="https://github.com/thisisgm.png?size=96" width="56" alt="thisisgm"/></a></td>
+<td valign="middle"><a href="https://github.com/thisisgm/flea"><b>thisisgm/flea</b></a><br/><img src="https://img.shields.io/github/stars/thisisgm/flea?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/luohoa97/cordial"><img src="https://github.com/luohoa97.png?size=96" width="56" align="left" alt="luohoa97"/></a>&nbsp;<a href="https://github.com/luohoa97/cordial"><b>luohoa97/cordial</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/luohoa97/cordial?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-1-8957e5?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/ixiumu/google-drive-webdav-workers"><img src="https://github.com/ixiumu.png?size=96" width="56" align="left" alt="ixiumu"/></a>&nbsp;<a href="https://github.com/ixiumu/google-drive-webdav-workers"><b>ixiumu/google-drive-webdav-workers</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/ixiumu/google-drive-webdav-workers?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-11-8957e5?style=flat-square"/>
-</td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/luohoa97/cordial"><img src="https://github.com/luohoa97.png?size=96" width="56" alt="luohoa97"/></a></td>
+<td valign="middle"><a href="https://github.com/luohoa97/cordial"><b>luohoa97/cordial</b></a><br/><img src="https://img.shields.io/github/stars/luohoa97/cordial?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-1-8957e5?style=flat-square"/></td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/ixiumu/google-drive-webdav-workers"><img src="https://github.com/ixiumu.png?size=96" width="56" alt="ixiumu"/></a></td>
+<td valign="middle"><a href="https://github.com/ixiumu/google-drive-webdav-workers"><b>ixiumu/google-drive-webdav-workers</b></a><br/><img src="https://img.shields.io/github/stars/ixiumu/google-drive-webdav-workers?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-11-8957e5?style=flat-square"/></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<a href="https://github.com/mehedishakeel/Bongo"><img src="https://github.com/mehedishakeel.png?size=96" width="56" align="left" alt="mehedishakeel"/></a>&nbsp;<a href="https://github.com/mehedishakeel/Bongo"><b>mehedishakeel/Bongo</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/mehedishakeel/Bongo?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/commits-23-8957e5?style=flat-square"/>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/atiar9999/screen-blanker"><img src="https://github.com/atiar9999.png?size=96" width="56" align="left" alt="atiar9999"/></a>&nbsp;<a href="https://github.com/atiar9999/screen-blanker"><b>atiar9999/screen-blanker</b></a><br/>
-&nbsp;<img src="https://img.shields.io/github/stars/atiar9999/screen-blanker?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-9-2ea44f?style=flat-square"/>
-</td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/mehedishakeel/Bongo"><img src="https://github.com/mehedishakeel.png?size=96" width="56" alt="mehedishakeel"/></a></td>
+<td valign="middle"><a href="https://github.com/mehedishakeel/Bongo"><b>mehedishakeel/Bongo</b></a><br/><img src="https://img.shields.io/github/stars/mehedishakeel/Bongo?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/commits-23-8957e5?style=flat-square"/></td>
+<td width="72" align="center" valign="middle"><a href="https://github.com/atiar9999/screen-blanker"><img src="https://github.com/atiar9999.png?size=96" width="56" alt="atiar9999"/></a></td>
+<td valign="middle"><a href="https://github.com/atiar9999/screen-blanker"><b>atiar9999/screen-blanker</b></a><br/><img src="https://img.shields.io/github/stars/atiar9999/screen-blanker?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-9-2ea44f?style=flat-square"/></td>
 </tr>
 </table>
 
