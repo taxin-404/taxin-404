@@ -1,0 +1,5 @@
+# OPTIONAL. Contributions are found automatically from your GitHub account.
+# Only add a PR URL here if a project still doesn't show up
+# (e.g. the maintainer landed your change without your commit author on it).
+# One URL per line.
+https://github.com/thisisgm/flea/pull/126       # landed in v0.3.0 with credit
