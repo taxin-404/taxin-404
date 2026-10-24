@@ -41,6 +41,8 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 ### 🚀 Projects I've contributed to
 
+<div align="center">
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -73,6 +75,8 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 </td>
 </tr>
 </table>
+
+</div>
 
 <!--EXTERNAL_END-->
 
