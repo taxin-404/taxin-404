@@ -32,7 +32,27 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 ## 🤝 External Contributions
 
 <!--EXTERNAL_START-->
-_Auto-generated: first run of the workflow will fill this in._
+**12 merged PRs across 4 projects**
+
+| Project | ⭐ | Merged PRs |
+|---|---:|---:|
+| [omacom/omarchy](https://github.com/omacom/omarchy) | 45,603 | 1 |
+| [luohoa97/cordial](https://github.com/luohoa97/cordial) | 240 | 1 |
+| [ixiumu/google-drive-webdav-workers](https://github.com/ixiumu/google-drive-webdav-workers) | 33 | 1 |
+| [atiar9999/screen-blanker](https://github.com/atiar9999/screen-blanker) | 1 | 9 |
+
+### 🕑 Recently merged
+
+- `2026-10-14` [WebDAV compliance fixes (RFC 4918)](https://github.com/ixiumu/google-drive-webdav-workers/pull/9) · **ixiumu/google-drive-webdav-workers**
+- `2026-09-21` [Add a cordial-bin AUR package and make the other two conflict with it](https://github.com/luohoa97/cordial/pull/60) · **luohoa97/cordial**
+- `2026-07-29` [feat(notifications): add right-click to dismiss popup](https://github.com/omacom/omarchy/pull/6400) · **omacom/omarchy**
+- `2026-02-17` [v3](https://github.com/atiar9999/screen-blanker/pull/15) · **atiar9999/screen-blanker**
+- `2026-02-16` [Create LICENSE](https://github.com/atiar9999/screen-blanker/pull/13) · **atiar9999/screen-blanker**
+- `2026-02-16` [Update blanker.py](https://github.com/atiar9999/screen-blanker/pull/5) · **atiar9999/screen-blanker**
+- `2026-02-16` [Update watcher.sh](https://github.com/atiar9999/screen-blanker/pull/6) · **atiar9999/screen-blanker**
+- `2026-02-16` [Update install.sh](https://github.com/atiar9999/screen-blanker/pull/7) · **atiar9999/screen-blanker**
+- `2026-02-16` [Update README with new badges and clone command](https://github.com/atiar9999/screen-blanker/pull/11) · **atiar9999/screen-blanker**
+- `2026-02-16` [Delete LICENSE](https://github.com/atiar9999/screen-blanker/pull/12) · **atiar9999/screen-blanker**
 <!--EXTERNAL_END-->
 
 🔎 **Live view on GitHub:**
