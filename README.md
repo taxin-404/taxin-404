@@ -23,7 +23,6 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 - ☕ I build backends with **Spring Boot** and frontends with **Angular**
 - 🐧 I run **Omarchy** as my daily OS
-- 🏠 I self-host my own services on free-tier infra
 - 🤝 I like contributing to other people's projects, which is what's shown below
 
 > This profile only shows work I've done **in other people's projects**. My own repos are deliberately left out.
