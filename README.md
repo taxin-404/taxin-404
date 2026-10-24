@@ -25,7 +25,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 - 🐧 I run **Omarchy** as my daily OS
 - 🤝 I like contributing to other people's projects, which is what's shown below
 
-> This profile only shows work I've done **in other people's projects**. My own repos are deliberately left out.
+> Backend-focused developer going deep on `Java` & **Spring Boot**
 
 ---
 
