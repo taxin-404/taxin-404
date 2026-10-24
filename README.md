@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=1793D1&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Angular+developer;I+contribute+to+open+source+projects;I+use+Omarchy+btw" alt="typing"/>
 </a>
 
-![Merged external PRs](https://img.shields.io/badge/dynamic/json?label=merged%20external%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ataxin-404%2Bis%3Apr%2Bis%3Amerged%2B-user%3Ataxin-404&style=for-the-badge&color=1793d1&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/dynamic/json?label=merged%20external%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Ataxin-404%2Bis%3Apr%2Bis%3Amerged%2B-user%3Ataxin-404&style=for-the-badge&color=1793d1&logo=github&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A.svg?style=for-the-badge&logo=Omarchy&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -30,7 +30,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 ---
 
-## 🤝 External Contributions
+## 🤝 Contributions
 
 <!--EXTERNAL_START-->
 <div align="center">
