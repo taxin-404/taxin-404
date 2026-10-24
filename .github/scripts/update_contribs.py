@@ -104,6 +104,7 @@ else:
     out.append("\n</div>\n")
 
     out.append("### 🚀 Projects I've contributed to\n")
+    out.append('<div align="center">\n')
     out.append("<table>")
     for i in range(0, len(rows), 2):
         out.append("<tr>")
@@ -125,6 +126,7 @@ else:
             out.append('<td width="50%"></td>')
         out.append("</tr>")
     out.append("</table>\n")
+    out.append("</div>\n")
 
     if SHOW_TIMELINE and prs:
         out.append("### 🕑 Timeline\n")
