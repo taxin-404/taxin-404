@@ -115,15 +115,17 @@ else:
                 badges += f' <img src="https://img.shields.io/badge/PRs-{n_prs}-2ea44f?style=flat-square"/>'
             if n_commits:
                 badges += f' <img src="https://img.shields.io/badge/commits-{n_commits}-8957e5?style=flat-square"/>'
+            # avatar and details live in separate cells, so wrapping badges never slip under the picture
             out.append(
-                f'<td width="50%" valign="top">\n'
-                f'<a href="https://github.com/{repo}"><img src="https://github.com/{owner}.png?size=96" width="56" align="left" alt="{owner}"/></a>'
-                f'&nbsp;<a href="https://github.com/{repo}"><b>{repo}</b></a><br/>\n'
-                f'&nbsp;{badges}\n'
+                f'<td width="72" align="center" valign="middle">'
+                f'<a href="https://github.com/{repo}"><img src="https://github.com/{owner}.png?size=96" width="56" alt="{owner}"/></a>'
+                f'</td>\n'
+                f'<td valign="middle">'
+                f'<a href="https://github.com/{repo}"><b>{repo}</b></a><br/>{badges}'
                 f'</td>'
             )
         if len(rows[i:i + 2]) == 1:
-            out.append('<td width="50%"></td>')
+            out.append('<td width="72"></td>\n<td></td>')
         out.append("</tr>")
     out.append("</table>\n")
     out.append("</div>\n")
