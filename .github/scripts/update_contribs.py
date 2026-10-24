@@ -103,7 +103,7 @@ else:
     out.append(f"![Reach](https://img.shields.io/badge/combined_reach-{fmt_stars(total_stars)}_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)")
     out.append("\n</div>\n")
 
-    out.append("### 🚀 Projects I've contributed to\n")
+    out.append('<h3 align="center">🚀 Projects I\'ve contributed to:</h3>\n')
     out.append('<div align="center">\n')
     out.append("<table>")
     for i in range(0, len(rows), 2):
