@@ -39,7 +39,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 </div>
 
-### 🚀 Projects I've contributed to
+<h3 align="center">🚀 Projects I've contributed to:</h3>
 
 <div align="center">
 
