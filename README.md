@@ -34,7 +34,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 <div align="center">
 
 ![Projects](https://img.shields.io/badge/projects-6-1793d1?style=for-the-badge&logo=github&logoColor=white)
-![PRs](https://img.shields.io/badge/PRs_landed-13-2ea44f?style=for-the-badge&logo=git&logoColor=white)
+![PRs](https://img.shields.io/badge/PRs_landed-14-2ea44f?style=for-the-badge&logo=git&logoColor=white)
 ![Reach](https://img.shields.io/badge/combined_reach-46.8k_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)
 
 </div>
@@ -58,7 +58,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 </tr>
 <tr>
 <td width="72" align="center" valign="middle"><a href="https://github.com/mehedishakeel/Bongo"><img src="https://github.com/mehedishakeel.png?size=96" width="56" alt="mehedishakeel"/></a></td>
-<td valign="middle"><a href="https://github.com/mehedishakeel/Bongo"><b>mehedishakeel/Bongo</b></a><br/><img src="https://img.shields.io/github/stars/mehedishakeel/Bongo?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/commits-23-8957e5?style=flat-square"/></td>
+<td valign="middle"><a href="https://github.com/mehedishakeel/Bongo"><b>mehedishakeel/Bongo</b></a><br/><img src="https://img.shields.io/github/stars/mehedishakeel/Bongo?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-25-8957e5?style=flat-square"/></td>
 <td width="72" align="center" valign="middle"><a href="https://github.com/atiar9999/screen-blanker"><img src="https://github.com/atiar9999.png?size=96" width="56" alt="atiar9999"/></a></td>
 <td valign="middle"><a href="https://github.com/atiar9999/screen-blanker"><b>atiar9999/screen-blanker</b></a><br/><img src="https://img.shields.io/github/stars/atiar9999/screen-blanker?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-9-2ea44f?style=flat-square"/></td>
 </tr>
