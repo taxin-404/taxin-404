@@ -35,7 +35,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 ![Projects](https://img.shields.io/badge/projects-6-1793d1?style=for-the-badge&logo=github&logoColor=white)
 ![PRs](https://img.shields.io/badge/PRs_landed-14-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![Reach](https://img.shields.io/badge/combined_reach-46.8k_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)
+![Reach](https://img.shields.io/badge/combined_reach-46.9k_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)
 
 </div>
 
