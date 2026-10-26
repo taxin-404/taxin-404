@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,100:0d1117&height=180&section=header&text=Taxin&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20Open%20source%20contributor&descAlignY=60&descSize=16" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1793d1,100:0d1117&height=180&section=header&text=taxin&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Spring%20Boot%20%C2%B7%20Angular%20%C2%B7%20Open%20source%20contributor&descAlignY=60&descSize=16" width="100%" alt="banner"/>
 
 <a href="https://github.com/taxin-404">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=1793D1&center=true&vCenter=true&width=600&lines=Spring+Boot+%2B+Angular+developer;I+contribute+to+open+source+projects;I+use+Omarchy+btw" alt="typing"/>
