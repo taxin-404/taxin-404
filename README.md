@@ -23,7 +23,7 @@ I build services with **Spring Boot** and ship the front end with **Angular**.
 
 - ☕ **Backend:** `Java` + **Spring Boot** — where I'm going deep
 - 🅰️ **Frontend:** **Angular** + `TypeScript`
-- 🐧 **Daily driver:** **Omarchy** on Arch
+- 🐧 **Daily driver:** [**Omarchy**](https://omarchy.org/) by [**@dhh**](https://x.com/dhh)
 - 🤝 **Open source:** merged fixes across Omarchy, Bongo, Cordial and others
 
 ---
