@@ -31,10 +31,18 @@ def stars(repo):
 
 
 def commits(repo):
+    """Commits by USER on the default branch, straight from the commits API.
+
+    The /contributors endpoint is too coarse here: for omarchy it lists 447
+    contributors but omits this user even though /commits?author=... returns
+    their merged commit. One item per page keeps this to a single request.
+    """
     try:
-        out = gh("api", f"repos/{repo}/contributors?per_page=100", "--paginate",
-                 "--jq", f'.[] | select(.login=="{USER}") | .contributions')
-        return sum(int(x) for x in out.split())
+        out = gh("api", "-i", f"repos/{repo}/commits?author={USER}&per_page=1")
+        last = re.search(r'page=(\d+)>;\s*rel="last"', out, re.IGNORECASE)
+        if last:
+            return int(last.group(1))
+        return len(json.loads(out.split("\r\n\r\n", 1)[-1]))
     except Exception:
         return 0
 

@@ -46,7 +46,7 @@ I build services with **Spring Boot** and ship the front end with **Angular**.
 <table>
 <tr>
 <td width="72" align="center" valign="middle"><a href="https://github.com/omacom/omarchy"><img src="https://github.com/omacom.png?size=96" width="56" alt="omacom"/></a></td>
-<td valign="middle"><a href="https://github.com/omacom/omarchy"><b>omacom/omarchy</b></a><br/><img src="https://img.shields.io/github/stars/omacom/omarchy?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-2-2ea44f?style=flat-square"/></td>
+<td valign="middle"><a href="https://github.com/omacom/omarchy"><b>omacom/omarchy</b></a><br/><img src="https://img.shields.io/github/stars/omacom/omarchy?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-2-2ea44f?style=flat-square"/> <img src="https://img.shields.io/badge/commits-1-8957e5?style=flat-square"/></td>
 <td width="72" align="center" valign="middle"><a href="https://github.com/thisisgm/flea"><img src="https://github.com/thisisgm.png?size=96" width="56" alt="thisisgm"/></a></td>
 <td valign="middle"><a href="https://github.com/thisisgm/flea"><b>thisisgm/flea</b></a><br/><img src="https://img.shields.io/github/stars/thisisgm/flea?style=flat-square&logo=github&color=1793d1"/> <img src="https://img.shields.io/badge/PRs-1-2ea44f?style=flat-square"/></td>
 </tr>
