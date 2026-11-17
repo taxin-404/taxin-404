@@ -7,13 +7,21 @@ on:
   push:
     paths:
       - ".github/scripts/update_contribs.py"
+      - ".github/extra-contributions.txt"
+      - ".github/workflows/update-contribs.yml"
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-contribs
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    if: github.ref == 'refs/heads/main'
     steps:
       - uses: actions/checkout@v4
 

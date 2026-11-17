@@ -47,13 +47,20 @@ query = """query($login:String!){user(login:$login){
     orderBy:{field:STARGAZERS, direction:DESC}){
     nodes{nameWithOwner stargazerCount isPrivate}}}}"""
 repos = {}
+graphql_ok = False
 try:
     data = json.loads(gh("api", "graphql", "-f", f"query={query}", "-f", f"login={USER}"))
     for n in data["data"]["user"]["repositoriesContributedTo"]["nodes"]:
         if not n["isPrivate"] and not is_own(n["nameWithOwner"]):
             repos[n["nameWithOwner"]] = n["stargazerCount"]
+    graphql_ok = True
 except Exception as e:
     print("graphql lookup failed:", e)
+
+# A failed lookup would silently drop every commit-only repo and write that
+# reduced block over the good one, so fail loudly instead of committing it.
+if not graphql_ok:
+    raise SystemExit("graphql lookup failed; refusing to overwrite README")
 
 # 2) merged PRs (for per-project PR counts, and the optional timeline)
 prs = json.loads(gh("search", "prs", "--author", USER, "--merged", "--limit", "200",
@@ -87,6 +94,9 @@ for r in by_repo:
 
 for r in HIDE:
     repos.pop(r, None)
+
+if not repos:
+    raise SystemExit("no contributed repos returned; refusing to overwrite README")
 
 rows = sorted(((r, s, len(by_repo.get(r, [])), commits(r)) for r, s in repos.items()),
               key=lambda x: (-x[1], x[0]))

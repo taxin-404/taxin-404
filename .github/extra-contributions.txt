@@ -2,4 +2,6 @@
 # Only add a PR URL here if a project still doesn't show up
 # (e.g. the maintainer landed your change without your commit author on it).
 # One URL per line.
+# NOTE: closed unmerged, but the maintainer reworked it and credited you in the
+# v0.3.0 notes ("reworked from PR #126 (@taxin-404)"), so it stays counted.
 https://github.com/thisisgm/flea/pull/126       # landed in v0.3.0 with credit

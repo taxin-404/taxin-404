@@ -18,13 +18,13 @@
 
 ## 👋 About
 
-Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
+I'm **Taxin**, a backend-focused full-stack developer from Bangladesh.
+I build services with **Spring Boot** and ship the front end with **Angular**.
 
-- ☕ I build backends with **Spring Boot** and frontends with **Angular**.
-- 🐧 I run **Omarchy** as my daily OS.
-- 🤝 I like contributing to open source projects.
-
-> Backend-focused developer going deep on `Java` & **Spring Boot**
+- ☕ **Backend:** `Java` + **Spring Boot** — where I'm going deep
+- 🅰️ **Frontend:** **Angular** + `TypeScript`
+- 🐧 **Daily driver:** **Omarchy** on Arch
+- 🤝 **Open source:** merged fixes across Omarchy, Bongo, Cordial and others
 
 ---
 
@@ -35,7 +35,7 @@ Hi, I'm **Taxin**, a full-stack developer from Bangladesh.
 
 ![Projects](https://img.shields.io/badge/projects-6-1793d1?style=for-the-badge&logo=github&logoColor=white)
 ![PRs](https://img.shields.io/badge/PRs_landed-16-2ea44f?style=for-the-badge&logo=git&logoColor=white)
-![Reach](https://img.shields.io/badge/combined_reach-48.7k_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)
+![Reach](https://img.shields.io/badge/combined_reach-48.8k_stars-e3b341?style=for-the-badge&logo=starship&logoColor=white)
 
 </div>
 
